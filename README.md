@@ -13,7 +13,7 @@ Requirements:
 Steps:
 
 1. Clone this project and extract it on your computer
-2. Open a terminal and change tho the project directory
+2. Open a terminal and change to the project directory
 3. Enter the following commands:
 
 	```
