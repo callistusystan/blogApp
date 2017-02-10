@@ -13,8 +13,7 @@ class PostsIndex extends Component {
             return (
                 <Link key={post.id} to={"posts/" + post.id}>
                     <li className="list-group-item">
-                            <span className="float-right">{post.categories}</span>
-                            <strong>{post.title}</strong>
+                            <strong>{post.title + ' '}</strong>
                     </li>
                 </Link>
             );

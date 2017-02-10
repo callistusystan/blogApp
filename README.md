@@ -4,9 +4,11 @@ This project is a simple web app that I made to enhance my understanding of Reac
 
 Its main functionality is to allow users to create blog post(s), view them and delete them. This project made use of an API hosted on herokuapp.com.
 
+![Alt text](/screenshots/screenshot1.png?raw=true "Blog App")
+
 ###Usage###
 
-Requirements: 
+Requirements:
 
 1. Node.js
 
@@ -20,4 +22,4 @@ Steps:
 		> npm install
 		> npm start
 	```
-4. On your preferred web browser, open "http://localhost:3000
+4. On your preferred web browser, open "http://localhost:8080"
