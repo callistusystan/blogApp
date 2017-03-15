@@ -6,7 +6,7 @@ Its main functionality is to allow users to create blog post(s), view them and d
 
 ![Alt text](/screenshots/screenshot1.png?raw=true "Blog App")
 
-###Usage###
+### Usage ###
 
 Requirements:
 
